@@ -70,46 +70,46 @@ Welcome to the ultimate curated directory of **healthcare data lake platforms**,
 
 ## 🔓 Open-Source GitHub Projects 💻
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[OpenEMR](https://github.com/openemr/openemr)** [![Stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers) 📋  
-  **Open-source electronic health records and medical practice management**, GPL-2.0 licensed. **3.8K+ GitHub stars** — **used by 100,000+ healthcare providers worldwide** . **ONC Complete EHR certified** . **The most widely deployed open-source EHR system** . 📋
+  **Open-source electronic health records and medical practice management**, GPL-2.0 licensed. **3.8K+ GitHub_Stars** — **used by 100,000+ healthcare providers worldwide** . **ONC Complete EHR certified** . **The most widely deployed open-source EHR system** . 📋
 
 - **[Open Health Imaging Foundation (OHIF)](https://github.com/OHIF/Viewers)** [![Stars](https://img.shields.io/github/stars/OHIF/Viewers?style=social&color=white)](https://github.com/OHIF/Viewers/stargazers) 🩻  
-  **Open-source web-based medical imaging viewer**, MIT licensed. **3.2K+ GitHub stars** — **zero-footprint DICOM viewer with 2D/3D MPR, PET/CT fusion, and AI plugin architecture** . **The global standard for open-source medical imaging** . 🩻
+  **Open-source web-based medical imaging viewer**, MIT licensed. **3.2K+ GitHub_Stars** — **zero-footprint DICOM viewer with 2D/3D MPR, PET/CT fusion, and AI plugin architecture** . **The global standard for open-source medical imaging** . 🩻
 
 - **[HAPI FHIR](https://github.com/hapifhir/hapi-fhir)** [![Stars](https://img.shields.io/github/stars/hapifhir/hapi-fhir?style=social&color=white)](https://github.com/hapifhir/hapi-fhir/stargazers) 🏥  
-  **The leading open-source Java FHIR framework and server**, Apache-2.0 licensed. **2.8K+ GitHub stars** — **the reference implementation for HL7 FHIR** . **Used by Apple Health, CMS, and thousands of health systems** . **Supports FHIR DSTU2, STU3, R4, R4B, and R5** . **Complete clinical data repository with RESTful API** . 🏥
+  **The leading open-source Java FHIR framework and server**, Apache-2.0 licensed. **2.8K+ GitHub_Stars** — **the reference implementation for HL7 FHIR** . **Used by Apple Health, CMS, and thousands of health systems** . **Supports FHIR DSTU2, STU3, R4, R4B, and R5** . **Complete clinical data repository with RESTful API** . 🏥
 
 - **[Medplum](https://github.com/medplum/medplum)** [![Stars](https://img.shields.io/github/stars/medplum/medplum?style=social&color=white)](https://github.com/medplum/medplum/stargazers) 🧑‍⚕️  
-  **Open-source healthcare developer platform**, Apache-2.0 licensed. **2.4K+ GitHub stars** — **FHIR-native APIs, React UI component library, and authentication for building compliant healthcare applications** . **Automated HIPAA and SOC2 compliance infrastructure** . 🧑‍⚕️
+  **Open-source healthcare developer platform**, Apache-2.0 licensed. **2.4K+ GitHub_Stars** — **FHIR-native APIs, React UI component library, and authentication for building compliant healthcare applications** . **Automated HIPAA and SOC2 compliance infrastructure** . 🧑‍⚕️
 
 - **[OpenMRS](https://github.com/openmrs/openmrs-core)** [![Stars](https://img.shields.io/github/stars/openmrs/openmrs-core?style=social&color=white)](https://github.com/openmrs/openmrs-core/stargazers) 🌍  
-  **Open-source enterprise electronic medical record system platform**, MPL-2.0 licensed. **2.1K+ GitHub stars** — **deployed across 80+ developing countries** . **Modular clinical management platform engineered for low-resource settings** . 🌍
+  **Open-source enterprise electronic medical record system platform**, MPL-2.0 licensed. **2.1K+ GitHub_Stars** — **deployed across 80+ developing countries** . **Modular clinical management platform engineered for low-resource settings** . 🌍
 
 - **[Synthea Synthetic Patient Generator](https://github.com/synthetichealth/synthea)** [![Stars](https://img.shields.io/github/stars/synthetichealth/synthea?style=social&color=white)](https://github.com/synthetichealth/synthea/stargazers) 🧪  
-  **Open-source synthetic patient data generator**, Apache-2.0 licensed. **1.6K+ GitHub stars** — **simulates realistic longitudinal medical histories of synthetic patients without PHI** . **Exports to FHIR R4, C-CDA, and CSV formats** . **The industry standard for testing healthcare analytics engines** . 🧪
+  **Open-source synthetic patient data generator**, Apache-2.0 licensed. **1.6K+ GitHub_Stars** — **simulates realistic longitudinal medical histories of synthetic patients without PHI** . **Exports to FHIR R4, C-CDA, and CSV formats** . **The industry standard for testing healthcare analytics engines** . 🧪
 
 - **[Orthanc DICOM Server](https://github.com/jodogne/orthanc)** [![Stars](https://img.shields.io/github/stars/jodogne/orthanc?style=social&color=white)](https://github.com/jodogne/orthanc/stargazers) 🔬  
-  **Lightweight, RESTful DICOM server for medical imaging**, GPL-3.0 licensed. **1.4K+ GitHub stars** — **standalone DICOM store with REST API for automated medical image processing and PACS archiving** . 🔬
+  **Lightweight, RESTful DICOM server for medical imaging**, GPL-3.0 licensed. **1.4K+ GitHub_Stars** — **standalone DICOM store with REST API for automated medical image processing and PACS archiving** . 🔬
 
 - **[OHDSI (Observational Health Data Sciences and Informatics)](https://github.com/OHDSI)** [![Stars](https://img.shields.io/github/stars/OHDSI?style=social&color=white)](https://github.com/OHDSI/stargazers) 🌐  
-  **Open-source clinical research analytics ecosystem**, Apache-2.0 licensed. **1.2K+ GitHub stars** — **maintains the OMOP Common Data Model (CDM)** for standardizing disparate healthcare databases . **ATLAS cohort generator** and **ACHILLES data quality profiler** . 🌐
+  **Open-source clinical research analytics ecosystem**, Apache-2.0 licensed. **1.2K+ GitHub_Stars** — **maintains the OMOP Common Data Model (CDM)** for standardizing disparate healthcare databases . **ATLAS cohort generator** and **ACHILLES data quality profiler** . 🌐
 
 - **[Open Health Natural Language Processing (OHNLP)](https://github.com/OHNLP)** [![Stars](https://img.shields.io/github/stars/OHNLP?style=social&color=white)](https://github.com/OHNLP/stargazers) 🧠  
   **Open-source clinical NLP framework**, Apache-2.0 licensed. **Developed by Mayo Clinic** — **extracts clinical entities, diagnoses, and medication details from unstructured clinical notes** . **Mapped to ICD-10, SNOMED CT, and RxNorm** . 🧠
 
 - **[FHIR Works on AWS](https://github.com/awslabs/fhir-works-on-aws-deployment)** [![Stars](https://img.shields.io/github/stars/awslabs/fhir-works-on-aws-deployment?style=social&color=white)](https://github.com/awslabs/fhir-works-on-aws-deployment/stargazers) ☁️  
-  **Open-source serverless FHIR framework on AWS**, Apache-2.0 licensed. **850+ GitHub stars** — **deploys a fully managed FHIR store using AWS Lambda, DynamoDB, and Amazon S3** . ☁️
+  **Open-source serverless FHIR framework on AWS**, Apache-2.0 licensed. **850+ GitHub_Stars** — **deploys a fully managed FHIR store using AWS Lambda, DynamoDB, and Amazon S3** . ☁️
 
 - **[HAPI FHIR JPA Server Starter](https://github.com/hapifhir/hapi-fhir-jpaserver-starter)** [![Stars](https://img.shields.io/github/stars/hapifhir/hapi-fhir-jpaserver-starter?style=social&color=white)](https://github.com/hapifhir/hapi-fhir-jpaserver-starter/stargazers) 🚀  
-  **Production-ready Spring Boot starter for HAPI FHIR**, Apache-2.0 licensed. **750+ GitHub stars** — **the fastest way to deploy a self-hosted FHIR JPA repository using Docker and PostgreSQL** . 🚀
+  **Production-ready Spring Boot starter for HAPI FHIR**, Apache-2.0 licensed. **750+ GitHub_Stars** — **the fastest way to deploy a self-hosted FHIR JPA repository using Docker and PostgreSQL** . 🚀
 
 - **[Inferno FHIR Testing Suite](https://github.com/onc-healthit/inferno)** [![Stars](https://img.shields.io/github/stars/onc-healthit/inferno?style=social&color=white)](https://github.com/onc-healthit/inferno/stargazers) ✅  
-  **Official ONC FHIR API testing suite**, Apache-2.0 licensed. **450+ GitHub stars** — **verifies compliance with the SMART App Launch Guide and ONC 21st Century Cures Act rule** . ✅
+  **Official ONC FHIR API testing suite**, Apache-2.0 licensed. **450+ GitHub_Stars** — **verifies compliance with the SMART App Launch Guide and ONC 21st Century Cures Act rule** . ✅
 
 - **[FHIR Resources & Definitions](https://github.com/FHIR/fhir-resources)** [![Stars](https://img.shields.io/github/stars/FHIR/fhir-resources?style=social&color=white)](https://github.com/FHIR/fhir-resources/stargazers) 📚  
-  **Canonical FHIR specifications and schema definitions**, open-source. **350+ GitHub stars** — **the source-of-truth schemas for all HL7 FHIR data structures** . 📚
+  **Canonical FHIR specifications and schema definitions**, open-source. **350+ GitHub_Stars** — **the source-of-truth schemas for all HL7 FHIR data structures** . 📚
 
 ---
 
@@ -119,7 +119,7 @@ Contributions are welcomed warmly! Follow these simple steps to submit new healt
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count badge, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count badge, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
